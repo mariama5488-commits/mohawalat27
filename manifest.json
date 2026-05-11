@@ -1,0 +1,21 @@
+{
+  "name": "محاولات",
+  "short_name": "محاولات",
+  "description": "مساحتك اليومية للتخطيط، البوح، والمحاسبة الهادئة",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1B3A1F",
+  "theme_color": "#1B3A1F",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.jpg",
+      "sizes": "125x125",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "lifestyle"]
+}
